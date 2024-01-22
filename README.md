@@ -6,6 +6,6 @@
 항목
 ---
 프로필 URL <br/>
-정리 URL <br/>
+정리 URL : https://j-hyun0913.tistory.com/ <br/>
 프로젝트 URL <br/>
 기타 
