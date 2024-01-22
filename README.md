@@ -6,6 +6,6 @@
 항목
 ---
 프로필 URL <br/>
-정리 URL <br/>
+정리 URL : https://github.com/donghwan12?tab=repositories <br/>
 프로젝트 URL <br/>
 기타 
