@@ -6,6 +6,6 @@
 항목
 ---
 프로필 URL <br/>
-정리 URL <br/>
+정리 URL : https://www.notion.so/56b25558ffea4a29a9d7599eb8b6f5c9?v=54f0841864d645f099625f694189fa03 <br/>
 프로젝트 URL <br/>
 기타 
