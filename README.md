@@ -6,6 +6,6 @@
 항목
 ---
 프로필 URL <br/>
-정리 URL : [github.com/sdee96/test](https://github.com/sdee96/test)https://github.com/sdee96/test <br/>
+정리 URL : https://github.com/sdee96/test
 프로젝트 URL <br/>
 기타 
