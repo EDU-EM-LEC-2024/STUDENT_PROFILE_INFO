@@ -5,7 +5,7 @@
 
 항목
 ---
-프로필 URL <br/>
+프로필 URL : https://hongjaeseong.github.io/My-Portfolio.github.io/<br/>
 정리 URL : https://www.notion.so/09b5dcb8b7194268bdf7bd6b0eba9cc7?pvs=4 <br/>
 프로젝트 URL <br/>
 기타 
