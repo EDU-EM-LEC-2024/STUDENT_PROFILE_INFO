@@ -5,7 +5,7 @@
 
 항목
 ---
-프로필 URL <br/>
+프로필 URL : https://pakms980319.github.io/My-Portfolio.github.io/ <br/>
 정리 URL : https://pakms980319.tistory.com/ <br/>
 프로젝트 URL <br/>
 기타 
