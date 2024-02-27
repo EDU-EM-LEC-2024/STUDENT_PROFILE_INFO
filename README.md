@@ -5,7 +5,7 @@
 
 항목
 ---
-프로필 URL <br/>
+프로필 URL : https://okeunjin.github.io/My-Portfolio.github.io/ <br/>
 정리 URL : https://www.notion.so/39d3d5a2e9ba47e281c2e613757ce5e3 <br/>
 프로젝트 URL <br/>
 기타 
