@@ -5,7 +5,7 @@
 
 항목
 ---
-프로필 URL <br/>
+프로필 URL : https://geonmoolee.github.io/My-Portfolio.github.io/ <br/>
 정리 URL : https://www.notion.so/This-is-Moo-b820512e1fc947fd8db5b912dde81b62  <br/>
 프로젝트 URL <br/>
 기타 
