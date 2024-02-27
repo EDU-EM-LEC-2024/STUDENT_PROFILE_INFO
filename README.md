@@ -5,7 +5,7 @@
 
 항목
 ---
-프로필 URL <br/>
+프로필 URL : https://jiwon55.github.io/My-Portfolio.github.io/ <br/>
 정리 URL : https://velog.io/@jiwon_95/posts <br/>
 프로젝트 URL <br/>
 기타 
