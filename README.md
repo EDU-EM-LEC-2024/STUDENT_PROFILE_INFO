@@ -5,7 +5,7 @@
 
 항목
 ---
-프로필 URL <br/>
+프로필 URL : https://sdee96.github.io/my-portfolio.github.io/ <br/>
 정리 URL : https://github.com/sdee96/test
 프로젝트 URL <br/>
 기타 
