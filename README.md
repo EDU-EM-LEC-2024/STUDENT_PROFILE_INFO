@@ -5,7 +5,7 @@
 
 항목
 ---
-프로필 URL <br/>
+프로필 URL : https://anjiyun98.github.io/My-Portfolio.gihub.io/ <br/>
 정리 URL <br/>
 프로젝트 URL : https://ju5710.tistory.com/ <br/>
 기타 
